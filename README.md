@@ -11,8 +11,6 @@ log transformation.ipynb: Teaches and demonstrates log transformation to convert
 
 model_selection_and_comparing_with_classifiers.ipynb: Explores how to select models and compare different classifiers in practice. Includes code for fitting and evaluating various ML classifiers, possibly with comparative metrics and result analysis.
 
-README.md: The readme likely offers a summary or overview, helping users navigate and understand repository structure and objectives.
-
 General Structure and Usage:
 
 All files are in Jupyter Notebook format and designed for hands-on learning, with stepwise code implementation and explanations.
