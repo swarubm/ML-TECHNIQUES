@@ -1,3 +1,40 @@
+#super datascience 
+Meet CatBoost — the gradient-based model that is bound to beat out the power that LightGBM (a gradient-based model that uses tree-based learning algorithms) has to offer on specific problems.
+
+CatBoost is a great self-tuning model to have in the toolkit whenever you want to get the highest accuracy on datasets that have many categorical features, which is usually the case with on-the-job problems.
+
+In this bonus, you will explore CatBoost theory and implement CatBoost on the brain cancer dataset (the same dataset we used for XGBoost).
+
+This tutorial covers the following steps:
+
+Importing the libraries
+
+Importing the dataset
+
+Splitting the dataset into the Training and Test set
+
+Training XGBoost on the Training set
+
+Making the confusion matrix
+
+Applying k-fold Cross-Validation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SPECIALIZED ML-TECHNIQUES
 CROSS VALIDATION .ipynb: Demonstrates four major cross-validation methods using the Iris dataset. Helps evaluate and compare model performance by partitioning data into training and testing segments, a core ML validation technique.
 
